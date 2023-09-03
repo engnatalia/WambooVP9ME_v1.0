@@ -23,7 +23,7 @@ For more information about the Harmony Valley project and its goals, visit the [
 
 ## Publication
 
-You can find more details about our research and findings in the publication:
+You can find more details about the research for which this Matlab code was created and the findings in the publication:
 
 - Title: "Green Video Compression for Metaverse: Lessons Learned from VP9 and HEVC"
 - Conference: SMPTE Media Technology Summit
